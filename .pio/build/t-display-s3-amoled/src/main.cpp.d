@@ -421,4 +421,5 @@
  .pio/libdeps/t-display-s3-amoled/GFX\ Library\ for\ Arduino/src/display/Arduino_ST77916.h \
  .pio/libdeps/t-display-s3-amoled/GFX\ Library\ for\ Arduino/src/display/Arduino_ST7796.h \
  .pio/libdeps/t-display-s3-amoled/GFX\ Library\ for\ Arduino/src/display/Arduino_WEA2012.h \
- include/config.h
+ include/config.h include/fonts/FreeSans9pt7b.h \
+ include/fonts/FreeSans12pt7b.h include/fonts/FreeSansBold18pt7b.h
